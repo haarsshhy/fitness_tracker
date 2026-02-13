@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/popup_about"
+        android:title="About Us" />
+    <item
+        android:id="@+id/popup_team_details"
+        android:title="Team Details" />
+    <item
+        android:id="@+id/popup_project_description"
+        android:title="Project Description" />
+</menu>
